@@ -1,0 +1,2 @@
+# Simple Python code that prints a message
+print("Hello, World!")
